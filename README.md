@@ -1,4 +1,4 @@
-Got it! Here's an updated **README** with the name **WiFi Tsunami**:
+
 
 ---
 
@@ -40,15 +40,15 @@ A **powerful C-based** tool designed for **educational** and **testing** purpose
 
 ### 1. **Clone or Download the Repository**:
 ```bash
-git clone https://github.com/yourusername/WiFi-Tsunami.git
-cd WiFi-Tsunami
+git clone https://github.com/4rti7t/Wifi_Tsunami.git
+cd WiFi_Tsunami
 ```
 
 ### 2. **Compile the Code**:
 Use `gcc` to compile the program:
 
 ```bash
-gcc -o wifi_tsunami wifi_tsunami.c
+gcc wifi_tsunami.c -o wifi_tsunami
 ```
 
 ### 3. **Run the Tool**:
